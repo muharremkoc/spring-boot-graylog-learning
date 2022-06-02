@@ -14,6 +14,16 @@ GrayLog includes ElastickSearch and MongoDB structures in its architecture.
 ## Installation
 
  - Configuring docker-compose.yml file and running  with docker-compose up -d
+ - Define gelf using dependency
+ ```java
+ <dependency>
+            <groupId>de.siegmar</groupId>
+            <artifactId>logback-gelf</artifactId>
+            <version>4.0.2</version>
+        </dependency>
+```
+
+
 ## Usage
 
 - First, if we are not logged in, we log in (Default username:admin,Password:admin).
