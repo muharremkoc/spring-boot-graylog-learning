@@ -20,27 +20,31 @@ GrayLog includes ElastickSearch and MongoDB structures in its architecture.
 
 - After successfully completing the login process, we click the Search button.
 
-![](RackMultipart20220602-1-ceqwwh_html_6e41cc9c868619b1.png)
+![image](https://user-images.githubusercontent.com/80245013/171663439-28383c00-d529-4be1-a18e-d7c500326e78.png)
 
 Note: The part marked with a red box determines the update period of the logs of our Project.
 
 - Next, we come to System and select the Inputs option from there.
 
-![](RackMultipart20220602-1-ceqwwh_html_5d6b1c459e29e07f.png)
+![image](https://user-images.githubusercontent.com/80245013/171663468-c2c1bc55-d516-4ba2-ab3d-2106e116bba9.png)
 
 - After gaining access to the Inputs screen, after selecting the rest port type of the Logs with Select Input, we click on Launch new Input and start making the necessary adjustments.
 
-![](RackMultipart20220602-1-ceqwwh_html_e2725b29d930bb12.png)
+![image](https://user-images.githubusercontent.com/80245013/171663564-c567f833-29d5-4c5a-a941-c2a09f1b6458.png)
 
 - Since we have adjusted our project settings to GELF UDP, we select GELF UDP and click Launch new Input.
 
+
+![GrayLogConfig](https://user-images.githubusercontent.com/80245013/171663654-bf900d6b-42a0-40d7-902c-9f156804cc79.png)
+
+
 - After making the necessary adjustments, we encounter such a screen.
 
-![](RackMultipart20220602-1-ceqwwh_html_c853f300336d60e.png)
+![image](https://user-images.githubusercontent.com/80245013/171663709-7eb50d2f-c28b-4a07-a561-8ef85a0f7119.png)
 
 - We click on the marked area from the incoming screen and we come to the screen with our Log messages.
 
-![](RackMultipart20220602-1-ceqwwh_html_a371254094972ff2.png)
+![image](https://user-images.githubusercontent.com/80245013/171663731-c9cb330c-c710-499a-89ab-f6b6e793f4d1.png)
 
 
 
