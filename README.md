@@ -26,6 +26,8 @@ GrayLog includes ElastickSearch and MongoDB structures in its architecture.
 
 ## Usage
 
+- Connect http://localhost:9000 
+
 - First, if we are not logged in, we log in (Default username:admin,Password:admin).
 
 - After successfully completing the login process, we click the Search button.
