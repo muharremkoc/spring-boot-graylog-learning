@@ -35,6 +35,7 @@
 
     <root level="INFO">
         <appender-ref ref="STDOUT" />
+
     </root>
 
     <logger name="com.learned.springbootgrayloglearning" additivity="false">
