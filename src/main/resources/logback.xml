@@ -1,11 +1,7 @@
 <configuration>
 
-
-    <property name="port" value="12202" />
+    <property name="port" value="12201" />
     <property name="host" value="127.0.0.1" />
-
-    <property name="port1" value="12201"/>
-    <property name="host1" value="192.168.2.61"/>
 
     <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
         <encoder>
@@ -42,7 +38,7 @@
     </root>
 
     <logger name="com.learned.springbootgrayloglearning" additivity="false">
-        <level value="DEBUG"/>
+        <level value="INFO"/>
         <appender-ref ref="GELF" />
         <appender-ref ref="STDOUT"/>
     </logger>
